@@ -37,6 +37,27 @@
             </div>
             <!-- End Breadcrumb Area -->
 
+            <div class="card mb-30">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h3>Listado de Usuarios</h3>
+
+                </div>
+
+                <div class="card-body">
+                    <table id="usuario_data" class="table display responsive nowrap">
+                        <thead>
+                            <tr>
+                                <th>Coreo Electronico</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
             <div class="flex-grow-1"></div>
 
             <!-- Start Footer End -->
